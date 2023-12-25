@@ -1,0 +1,7 @@
+dashboards/
+data/
+env/
+other graphs/
+*.log
+pyvenv.cfg
+examples/
